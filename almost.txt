@@ -1,0 +1,11 @@
+xyz, xyc
+xyz, xy
+xyz, xz
+xyz, yz
+xyz, xyzz
+xyz, xayz
+x, ''
+xyz, xyz
+xyz, xzy
+xyz, xk
+xyz, yzxt
